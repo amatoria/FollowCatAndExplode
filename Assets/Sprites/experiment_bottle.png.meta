@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -103,7 +103,469 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: experiment_bottle_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 408
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4886f0211d146c14590082803f452e00
+      internalID: -967701161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 408
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bdbb86699857840827d735214f2e5b
+      internalID: 741583237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 408
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5375f38ebcdea46a7175cbc34d8489
+      internalID: -1315384537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 280
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206f4b1612532a74b835870e49624124
+      internalID: -1538813712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 280
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6c47f0b09a2ac4bbf277351cc422f6
+      internalID: 1694988733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 280
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5595e697fafa9f049bb9067f250e62ee
+      internalID: -1994532223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 152
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0aeddebb4ff34b4d9efd935b5f5f3fe
+      internalID: 1043805920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 152
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c821f576dc7a3114f846aa863d64ff2b
+      internalID: -414668615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 200
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f324fdc87ead143b9fb73cd27a484d
+      internalID: 1381675221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 152
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e9b8b661ad7c14ea9a1b30a97af936
+      internalID: -1554678442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 188
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b59f0465eb7dd04da37f6b9a992f00f
+      internalID: -61439082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 164
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13e177514ec2794a977665d0f7eb110
+      internalID: 1088380458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 156
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb72de4cfe6633f438faa887809af82e
+      internalID: 738370876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 24
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029ae763ca6f30345876a32369415090
+      internalID: 928502611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 24
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640c4e66d21d20c4bacf45d28a8dc1db
+      internalID: 214918356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 64
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032a67a1f71c81e42a1c6ef113e4a18b
+      internalID: 1525526492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 48
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131d47d91a5411f46824127463865073
+      internalID: 1193785876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 44
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852ade49f48085e4c8258dd651e8c265
+      internalID: 1365719950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_18
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817716d585b5d134c9a5abac3ba3e1a2
+      internalID: -421265409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4953c4bf9e4d4fa48bfdfc9740328ca3
+      internalID: -1845584519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 24
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198a1199a6a4566428af65887fc7fe44
+      internalID: -315086654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: experiment_bottle_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 24
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72eca6967a648784ea5228616d43193e
+      internalID: -283279028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -114,7 +576,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      experiment_bottle_14: 214918356
+      experiment_bottle_5: -1994532223
+      experiment_bottle_0: -967701161
+      experiment_bottle_15: 1525526492
+      experiment_bottle_3: -1538813712
+      experiment_bottle_9: -1554678442
+      experiment_bottle_21: -283279028
+      experiment_bottle_17: 1365719950
+      experiment_bottle_10: -61439082
+      experiment_bottle_18: -421265409
+      experiment_bottle_2: -1315384537
+      experiment_bottle_11: 1088380458
+      experiment_bottle_1: 741583237
+      experiment_bottle_12: 738370876
+      experiment_bottle_13: 928502611
+      experiment_bottle_19: -1845584519
+      experiment_bottle_4: 1694988733
+      experiment_bottle_7: -414668615
+      experiment_bottle_16: 1193785876
+      experiment_bottle_6: 1043805920
+      experiment_bottle_20: -315086654
+      experiment_bottle_8: 1381675221
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

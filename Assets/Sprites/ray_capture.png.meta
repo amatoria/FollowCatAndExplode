@@ -1,0 +1,1971 @@
+fileFormatVersion: 2
+guid: bbc765726e1ad4a47bfd2eed470e4dee
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ray_capture_0
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 8343
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f87abddba7bc84383df55c120f1394
+      internalID: -439743316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_1
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 8304
+        width: 88
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b405379c797528d4aa121c273eb0baab
+      internalID: 1484380361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_2
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 8356
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641413757fd1d5542ae8adc83f0ce58e
+      internalID: -1365223640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_3
+      rect:
+        serializedVersion: 2
+        x: 5396
+        y: 8264
+        width: 189
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d8e1b3eefd3bd488b49db87d052415
+      internalID: -991425278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_4
+      rect:
+        serializedVersion: 2
+        x: 7295
+        y: 8224
+        width: 290
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5959c48862b15de4794300e0a40fea7f
+      internalID: -358191770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_5
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 6647
+        width: 392
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218037dfa92b97d4996c19019a08d1c8
+      internalID: 167197500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_6
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 6594
+        width: 462
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce4e9fc08bdca945a301e6de1b8a0c2
+      internalID: 1596678763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_7
+      rect:
+        serializedVersion: 2
+        x: 4895
+        y: 6463
+        width: 109
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b3b48c60de43e4aa04b93512ecd975
+      internalID: -712200539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_8
+      rect:
+        serializedVersion: 2
+        x: 5123
+        y: 6594
+        width: 462
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a011f44e60da9849a29d94320aa0850
+      internalID: -453695783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_9
+      rect:
+        serializedVersion: 2
+        x: 6895
+        y: 6463
+        width: 109
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f14dda30883a546b3feb8e3a34e47f
+      internalID: 1743457325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_10
+      rect:
+        serializedVersion: 2
+        x: 7123
+        y: 6594
+        width: 462
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3125cb709ff3a4280860e0af1f1b68
+      internalID: -567435671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_11
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 4924
+        width: 171
+        height: 892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94b160a45c837e4c85d30547aba738b
+      internalID: -356934528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_12
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 5197
+        width: 44
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fcca4b79bc02544becab8b980f0dfb
+      internalID: -2120472471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_13
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 5227
+        width: 347
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10062d6e39ade1f408a443867f25af51
+      internalID: -1349314887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_14
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 4885
+        width: 400
+        height: 931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2b1bc7fac165c48b0432981dce879a
+      internalID: 1695109752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_15
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 5276
+        width: 44
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888f513c5bd4a2b42afccea8310bbbe9
+      internalID: 485381196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_16
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 5293
+        width: 321
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c18537a582d846438b67877d91375e9
+      internalID: -1351595080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_17
+      rect:
+        serializedVersion: 2
+        x: 4314
+        y: 4836
+        width: 550
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79576985f40b07c469fd3408f1c089d8
+      internalID: 335353477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_18
+      rect:
+        serializedVersion: 2
+        x: 5123
+        y: 5373
+        width: 31
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898e86a221671be49949dadf5d332cb2
+      internalID: 1792537770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_19
+      rect:
+        serializedVersion: 2
+        x: 5185
+        y: 5373
+        width: 79
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ee9b996483f6646936aeb6a783a799
+      internalID: 621543958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_20
+      rect:
+        serializedVersion: 2
+        x: 5286
+        y: 5386
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6bd7ddc0bdd2a4b84b1f6f52d992e4
+      internalID: -1357904818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_21
+      rect:
+        serializedVersion: 2
+        x: 5343
+        y: 5394
+        width: 101
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e669a4b3072e0249b5bd708533ae7b4
+      internalID: 362798425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_22
+      rect:
+        serializedVersion: 2
+        x: 6064
+        y: 4793
+        width: 681
+        height: 974
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a83418842e90b4d8a0f7ffa385b578
+      internalID: -1594231054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3276
+        width: 752
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581a952e453e32843baed783dba60d30
+      internalID: 629134343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_24
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 3245
+        width: 781
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79001fa4fa5d7994195c8aa606794c89
+      internalID: -1231537151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_25
+      rect:
+        serializedVersion: 2
+        x: 4015
+        y: 3245
+        width: 778
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d0685663378d5449ce663222369ddd
+      internalID: 1357810805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_26
+      rect:
+        serializedVersion: 2
+        x: 6064
+        y: 3294
+        width: 681
+        height: 971
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80f7e8e1886e0e4fb9fd2e516dfb778
+      internalID: -2075959591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_27
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2485
+        width: 421
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2748f457854b6a4a8feb5dbaced5eab
+      internalID: 2049081275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_28
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 2674
+        width: 223
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898a4d2064b0d5d4288a81b77f3a8abe
+      internalID: -1138674717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_29
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 2485
+        width: 189
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3662a283a1fc8e418615141ea7894e7
+      internalID: -1669673260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_30
+      rect:
+        serializedVersion: 2
+        x: 4253
+        y: 2674
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7acaa3fc63eec044ab00d74b7adfa8e
+      internalID: 325402252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_31
+      rect:
+        serializedVersion: 2
+        x: 4385
+        y: 2696
+        width: 92
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed675f4ea5f062499be16dcc636be4a
+      internalID: -2144148605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_32
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2643
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5491d4d976fdbc94883466b4ae390ba9
+      internalID: -925333372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_33
+      rect:
+        serializedVersion: 2
+        x: 6253
+        y: 2674
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023e4c253e1e3004ab67fc2c98eba8cc
+      internalID: -1864770384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_34
+      rect:
+        serializedVersion: 2
+        x: 6297
+        y: 2705
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c87e36e8856f24194bb4fb71bff76a
+      internalID: -1928263863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_35
+      rect:
+        serializedVersion: 2
+        x: 6385
+        y: 2714
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce90075584138054eb129a01cf8fb9c6
+      internalID: -1626379986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_36
+      rect:
+        serializedVersion: 2
+        x: 6433
+        y: 2696
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef488abcf2c4f3409dc9f1b3750dcd5
+      internalID: 873627622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_37
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2705
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74be57ee3b5dff24197d309238583c3f
+      internalID: -338321338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2024
+        width: 140
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1365ddbc24e3a9478e82e7cc885cb02
+      internalID: -409946584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_39
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 2485
+        width: 88
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa48c36b36470414fa3df4aefde25853
+      internalID: 512518588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_40
+      rect:
+        serializedVersion: 2
+        x: 4113
+        y: 2485
+        width: 91
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71912cf59dd0bd248b95c5c8289b406c
+      internalID: -1617092280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_41
+      rect:
+        serializedVersion: 2
+        x: 6165
+        y: 2586
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab00e856d02c5e543820a69c3297fc95
+      internalID: 774619283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_42
+      rect:
+        serializedVersion: 2
+        x: 6534
+        y: 2643
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb69ff04c51f5a409d952ef0ac3ec68
+      internalID: 1521002436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_43
+      rect:
+        serializedVersion: 2
+        x: 4604
+        y: 2485
+        width: 71
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5be79fdbb965c34cae33089dbcda593
+      internalID: -1367154228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_44
+      rect:
+        serializedVersion: 2
+        x: 6113
+        y: 2485
+        width: 52
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9bcbb6b82e0f94dbff65caa19d7ca7
+      internalID: 1439570194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_45
+      rect:
+        serializedVersion: 2
+        x: 6604
+        y: 2485
+        width: 71
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf0c6ffbea1f9b4eb85bf6f3e0e49e1
+      internalID: -771503989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_46
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1953
+        width: 110
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb50016b8cbe6545bb74b1e00b1fddd
+      internalID: -266235312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_47
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 2024
+        width: 92
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437f53e4a58dd674eb67eb7bb9b561c2
+      internalID: -492515869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_48
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 2296
+        width: 70
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc75df2b3e6ed73488e9a0a42408b746
+      internalID: -1304850806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_49
+      rect:
+        serializedVersion: 2
+        x: 4064
+        y: 2257
+        width: 61
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70964ab0a0409e44be46abba17017bc
+      internalID: -1819459769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_50
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 2296
+        width: 70
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd44c567a011fca4c978405dc72ee124
+      internalID: -2109306951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_51
+      rect:
+        serializedVersion: 2
+        x: 6095
+        y: 2375
+        width: 30
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21632affa9b68d6478101a2047d503b1
+      internalID: -1145123265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_52
+      rect:
+        serializedVersion: 2
+        x: 6675
+        y: 2424
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ce4913816b24b409d32e5df3e9041f
+      internalID: -780174657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_53
+      rect:
+        serializedVersion: 2
+        x: 6684
+        y: 2336
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7430b2d14be19814aa5721722058f6e9
+      internalID: 1961075639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_54
+      rect:
+        serializedVersion: 2
+        x: 6693
+        y: 2296
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bb38d96a61fa54cb1b775cec9cdce2
+      internalID: 1537569461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_55
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 1953
+        width: 101
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b00af704e177c541a93c23540b5f077
+      internalID: -1493076119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_56
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 2125
+        width: 61
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1de65f3b1257bc47889656f4de6a33b
+      internalID: 90839774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_57
+      rect:
+        serializedVersion: 2
+        x: 6064
+        y: 2257
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3bc08593b03f44c832958d15fb1575
+      internalID: 252435178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_58
+      rect:
+        serializedVersion: 2
+        x: 6693
+        y: 2226
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ae85a25f01f8b4e805be34a85b1293
+      internalID: 648051107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_59
+      rect:
+        serializedVersion: 2
+        x: 4064
+        y: 2024
+        width: 92
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a15343a889d31488ff034bec7dc2ae
+      internalID: 722243979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_60
+      rect:
+        serializedVersion: 2
+        x: 6064
+        y: 2125
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b6a646301e0224ebb9fb451a6891f1
+      internalID: -1651501793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_61
+      rect:
+        serializedVersion: 2
+        x: 6675
+        y: 2125
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98e0b94cb1be9b4ea00fd4c0ee369b7
+      internalID: 961194296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_62
+      rect:
+        serializedVersion: 2
+        x: 6706
+        y: 2186
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a4df22a18b72d4db0afc4bce167693
+      internalID: 1598114050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_63
+      rect:
+        serializedVersion: 2
+        x: 4635
+        y: 1953
+        width: 62
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeb1c9d6937b634396f465fb4fb7a21
+      internalID: -1015767472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_64
+      rect:
+        serializedVersion: 2
+        x: 6644
+        y: 2015
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc2143a747536b449344d1cfbcfd8eb
+      internalID: 306379493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_65
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1795
+        width: 510
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811c327b45a725948a1b8ef56d044c68
+      internalID: -1175671278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_66
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 1826
+        width: 163
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85c68319ed9cb34f9448f076d43dbed
+      internalID: -1969158741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_67
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 1874
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d279c6d7a42cbf4bb2f1b55bb2f5eeb
+      internalID: 465120721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_68
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1927
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f989c1b7518826249912eb4bad40de1c
+      internalID: 1107588657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_69
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 1874
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caeb73c39d5a4c24fb6544f0cbf8f780
+      internalID: -740138438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_70
+      rect:
+        serializedVersion: 2
+        x: 6134
+        y: 1963
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f88d8860b925ef499e992518ec32076
+      internalID: -2139890176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_71
+      rect:
+        serializedVersion: 2
+        x: 6165
+        y: 1927
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7807205eb53764db1aaf504ff01076
+      internalID: 330201693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_72
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 1874
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247ea5b530ba3c54e8ca63bbd2106125
+      internalID: 869004962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_73
+      rect:
+        serializedVersion: 2
+        x: 6635
+        y: 1953
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6ac1023b17a544e9d20dff3844940c
+      internalID: -1668721741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_74
+      rect:
+        serializedVersion: 2
+        x: 4204
+        y: 1826
+        width: 93
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372a6ac233aa56045a9b0ca090af163e
+      internalID: 1827969140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_75
+      rect:
+        serializedVersion: 2
+        x: 6204
+        y: 1874
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcac26df39c73f46a66214e04fa1bb3
+      internalID: 525942959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_76
+      rect:
+        serializedVersion: 2
+        x: 6244
+        y: 1874
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c5e1e7082ee6949940f23abb76261a
+      internalID: 323423898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_77
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 1795
+        width: 250
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ac8c4c60465bf4284b4852971aec40
+      internalID: -479501488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_78
+      rect:
+        serializedVersion: 2
+        x: 4306
+        y: 1795
+        width: 118
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e31e78b65f27544982bb3c2461f81a6
+      internalID: -46994592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_79
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 1804
+        width: 101
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eee7c1c11f83a441ac602499299e7e8
+      internalID: 1550658813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_80
+      rect:
+        serializedVersion: 2
+        x: 6253
+        y: 1826
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e93d08b6ac6d94b8e35bafbde2d993
+      internalID: 923862804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_81
+      rect:
+        serializedVersion: 2
+        x: 6306
+        y: 1795
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e36fd460469e14f9630f9ae9e5f013
+      internalID: 2010717278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_82
+      rect:
+        serializedVersion: 2
+        x: 6393
+        y: 1795
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99513601fffbfb4c82931efa56d5ac3
+      internalID: -1863160412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray_capture_83
+      rect:
+        serializedVersion: 2
+        x: 6455
+        y: 1804
+        width: 101
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734c3694ce40f0a43a035185f0388582
+      internalID: -1470749577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ray_capture_74: 1827969140
+      ray_capture_16: -1351595080
+      ray_capture_9: 1743457325
+      ray_capture_33: -1864770384
+      ray_capture_7: -712200539
+      ray_capture_20: -1357904818
+      ray_capture_42: 1521002436
+      ray_capture_31: -2144148605
+      ray_capture_43: -1367154228
+      ray_capture_23: 629134343
+      ray_capture_27: 2049081275
+      ray_capture_59: 722243979
+      ray_capture_62: 1598114050
+      ray_capture_79: 1550658813
+      ray_capture_1: 1484380361
+      ray_capture_35: -1626379986
+      ray_capture_56: 90839774
+      ray_capture_64: 306379493
+      ray_capture_12: -2120472471
+      ray_capture_80: 923862804
+      ray_capture_46: -266235312
+      ray_capture_2: -1365223640
+      ray_capture_48: -1304850806
+      ray_capture_68: 1107588657
+      ray_capture_17: 335353477
+      ray_capture_72: 869004962
+      ray_capture_14: 1695109752
+      ray_capture_25: 1357810805
+      ray_capture_30: 325402252
+      ray_capture_76: 323423898
+      ray_capture_45: -771503989
+      ray_capture_26: -2075959591
+      ray_capture_39: 512518588
+      ray_capture_66: -1969158741
+      ray_capture_81: 2010717278
+      ray_capture_75: 525942959
+      ray_capture_47: -492515869
+      ray_capture_51: -1145123265
+      ray_capture_52: -780174657
+      ray_capture_53: 1961075639
+      ray_capture_78: -46994592
+      ray_capture_61: 961194296
+      ray_capture_21: 362798425
+      ray_capture_40: -1617092280
+      ray_capture_67: 465120721
+      ray_capture_57: 252435178
+      ray_capture_22: -1594231054
+      ray_capture_3: -991425278
+      ray_capture_29: -1669673260
+      ray_capture_24: -1231537151
+      ray_capture_4: -358191770
+      ray_capture_63: -1015767472
+      ray_capture_71: 330201693
+      ray_capture_77: -479501488
+      ray_capture_73: -1668721741
+      ray_capture_83: -1470749577
+      ray_capture_82: -1863160412
+      ray_capture_50: -2109306951
+      ray_capture_69: -740138438
+      ray_capture_37: -338321338
+      ray_capture_65: -1175671278
+      ray_capture_49: -1819459769
+      ray_capture_70: -2139890176
+      ray_capture_15: 485381196
+      ray_capture_38: -409946584
+      ray_capture_18: 1792537770
+      ray_capture_6: 1596678763
+      ray_capture_13: -1349314887
+      ray_capture_36: 873627622
+      ray_capture_19: 621543958
+      ray_capture_34: -1928263863
+      ray_capture_0: -439743316
+      ray_capture_28: -1138674717
+      ray_capture_41: 774619283
+      ray_capture_60: -1651501793
+      ray_capture_44: 1439570194
+      ray_capture_11: -356934528
+      ray_capture_8: -453695783
+      ray_capture_54: 1537569461
+      ray_capture_10: -567435671
+      ray_capture_32: -925333372
+      ray_capture_5: 167197500
+      ray_capture_58: 648051107
+      ray_capture_55: -1493076119
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
